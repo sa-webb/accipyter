@@ -1,0 +1,4 @@
+# ignore cache files from execution
+/scripts/__pycache__
+/scripts/__init__.pyc
+/scripts/accipyter2.pyc
