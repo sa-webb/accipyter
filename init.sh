@@ -1,1 +1,1 @@
-cd tmp/ && python --version 2>> target_version.txt
+cd tmp/ && python --version >> target_version.txt 2>&1
