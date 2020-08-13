@@ -1,5 +1,5 @@
-conda env --name accipyter2 create -f environment2.yml
+conda env --name accipyter3 create -f environment3.yml
 
 pip install ../requirements.txt
 
-source activate accipyter2
+source activate accipyter3
